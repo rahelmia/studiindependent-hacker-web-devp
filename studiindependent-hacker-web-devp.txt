@@ -1,4 +1,5 @@
 studiindependent hacker web devp
+disini menyajikan materi untuk pertemuan yang akan datang
 -Attribute, Inline/Block Element, Table, Form
 -Pengenalan CSS. Penulisan, Basic
 -Selector CSS, Display, Background
@@ -8,3 +9,4 @@ studiindependent hacker web devp
 -Showcase Middle Challange (share hasil antar peserta)
 -Git Collabs
 -Pengenalan php, tools dan dasar php
+masih semangat dong ya
