@@ -1,3 +1,4 @@
+Yeay sudah satu bulan saja, tetapi materi masih kunjung ada dan terus dipelajari lagi
 studiindependent hacker web devp
 disini menyajikan materi untuk pertemuan yang akan datang
 -Attribute, Inline/Block Element, Table, Form
@@ -9,4 +10,4 @@ disini menyajikan materi untuk pertemuan yang akan datang
 -Showcase Middle Challange (share hasil antar peserta)
 -Git Collabs
 -Pengenalan php, tools dan dasar php
-masih semangat dong ya
+Nah disini coba tetap semangat ya
