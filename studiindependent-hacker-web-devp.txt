@@ -1,3 +1,4 @@
+Yeay sudah satu bulan saja, tetapi materi masih kunjung ada dan terus dipelajari lagi
 studiindependent hacker web devp
 -Attribute, Inline/Block Element, Table, Form
 -Pengenalan CSS. Penulisan, Basic
@@ -8,3 +9,4 @@ studiindependent hacker web devp
 -Showcase Middle Challange (share hasil antar peserta)
 -Git Collabs
 -Pengenalan php, tools dan dasar php
+Nah disini coba tetap semangat ya
