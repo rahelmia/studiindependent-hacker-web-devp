@@ -1,8 +1,4 @@
 studiindependent hacker web devp
--Review materi dan pengenalan html (perlihatkan case study)
--HTML Basic (heading, paragraph, image, button, formatting, dll)
--GIT Fundamental (pengenalan, push, pull, clone)
--GIT In Action (branching strategy) 
 -Attribute, Inline/Block Element, Table, Form
 -Pengenalan CSS. Penulisan, Basic
 -Selector CSS, Display, Background
