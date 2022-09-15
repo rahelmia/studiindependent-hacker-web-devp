@@ -1,5 +1,6 @@
 Yeay sudah satu bulan saja, tetapi materi masih kunjung ada dan terus dipelajari lagi
 studiindependent hacker web devp
+disini menyajikan materi untuk pertemuan yang akan datang
 -Attribute, Inline/Block Element, Table, Form
 -Pengenalan CSS. Penulisan, Basic
 -Selector CSS, Display, Background
