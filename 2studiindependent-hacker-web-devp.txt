@@ -1,0 +1,12 @@
+Materi lanjutan untuk studi independent hacker web devp
+-Pengenalan php dan tools, dasar PHP
+-PHP dasar2
+-Form Handling
+-Pengenalan basis data
+-MySQL 
+-PHP CRUD
+-Basis data lanjut
+-PHP CRUD 2
+-OOP
+-Final Challenge
+ Disini merupakan tahap akhir dari pematerian hacker web devp
